@@ -34,7 +34,7 @@ DATABASES = {
 TIME_ZONE = 'Asia/Shanghai'
 
 # 站点名称
-SITE_TITLE = 'ichuan.net'
+SITE_TITLE = 'zeng '
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
