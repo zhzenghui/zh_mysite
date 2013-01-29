@@ -83,9 +83,9 @@ django最佳实践 项目目录结构布局
 
 
 [django最佳实践：项目布局](http://www.cnblogs.com/holbrook/archive/2012/02/25/2368231.html)
+
     project结构
     这里定义的是python开源项目目录结构中的$PROJ_NAME目录内的内容，需要与python开源项目目录结构结合起来。
-
     PROJ_NAME/
          __init__.py      这几个文件是django创建project所必须的，不做过多说明
          manage.py
