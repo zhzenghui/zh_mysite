@@ -59,6 +59,7 @@ django最佳实践 项目目录结构布局
 
 
 [心内求法:python开源项目目录结构参考](http://www.cnblogs.com/holbrook/archive/2012/02/24/2366386.html)
+
     .tx/                                       如果你使用Transifex进行国际化的翻译工作，创建此目录
             config                           Transifex的配置文件
     $PROJ_NAME/                    按照你实际的项目名称创建目录。如果有多个子项目，就创建多个目录
@@ -81,8 +82,7 @@ django最佳实践 项目目录结构布局
     setup.py                               python模块的安装脚本
 
 
-
-    [django最佳实践：项目布局](http://www.cnblogs.com/holbrook/archive/2012/02/25/2368231.html)
+[django最佳实践：项目布局](http://www.cnblogs.com/holbrook/archive/2012/02/25/2368231.html)
     project结构
     这里定义的是python开源项目目录结构中的$PROJ_NAME目录内的内容，需要与python开源项目目录结构结合起来。
 
