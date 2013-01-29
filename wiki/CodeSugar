@@ -1,0 +1,6 @@
+url 中文字符
+
+from django.utils.http import urlquote
+
+urlquote(request.GET['parent_id']).decode('utf8')
+parent_menu = urlquote(request.POST.get('parent_menu')).decode('utf8')
